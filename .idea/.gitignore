@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../../:\Devops\learn_dj\.idea/dataSources/
+/../../../../:\Devops\learn_dj\.idea
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
